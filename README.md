@@ -1,7 +1,7 @@
 # portfolio
 Hey there,  this is my profile
 <h1 align="center">Hi 👋, I'm Pranay Chowdary</h1>
-<h3 align="center">A recent CS graduate and Tech Enthusiast from India</h3>
+<h3 align="center">A recent CS graduate and Tech Enthusiast </h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
